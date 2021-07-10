@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+    background-color:rgb(96, 80, 168)
+   
+}
+
+.perfil{
+    padding: 20px;
+}

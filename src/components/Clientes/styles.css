@@ -1,0 +1,33 @@
+
+.banner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    margin-top: 20px;
+}
+
+.texto{
+    margin-left: 40%;
+    text-align: center;
+    position: absolute;
+
+    margin-top: 200px;
+}
+
+
+.botao{
+    text-decoration: none;
+    font-family: 'Baloo Da 2', cursive, 800;
+    font-size: 15px;
+    font-weight: 600;
+    color: #ffffff ;
+    background-color:#4f21588a;
+    border: #ffffff  1px;
+    padding: 2px 15px 2px 15px;
+    border-radius: 50px;
+}
+
+
+
